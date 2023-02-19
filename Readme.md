@@ -3,7 +3,7 @@
 Following 5 sampling Techniques were used:
 1. Random Sampling
 2. Systematic Sampling
-3. CLustered Sampling
+3. Clustered Sampling
 4. Weighted Sampling
 5. Stratified Sampling
 
