@@ -19,8 +19,7 @@ Following 5 models were applied on the sampled dataset:
 On execution of the code, following results were obtained:
 The cells of the table represent accuracy of the applied model using the respective sampling technique.
 
-![Screenshot from 2023-02-19 01-50-04](https://user-images.githubusercontent.com/71625050/219893357-dc43f216-8e2e-4a83-a758-60f7ef440063.png)
-
+<img width="765" alt="image" src="https://user-images.githubusercontent.com/72307273/219969432-61c659a7-93ed-4bf0-acc8-31304989d9a6.png">
 As we can see from the table the Maximum Accuracy obtained is of 99.8034076015727% using sample2 and model2 i.e Systematic Sampling and Random Forest Classifier.
 
 
